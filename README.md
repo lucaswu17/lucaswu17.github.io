@@ -1,3 +1,5 @@
 https://lucaswu17.github.io/
 =====================
-This template is credited to [Jonathan McGlone](http://jmcglone.com).
+This site documents some projects that I have been working on. 
+
+The website template is credited to [Jonathan McGlone](http://jmcglone.com).
